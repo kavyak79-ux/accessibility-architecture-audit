@@ -20,7 +20,7 @@ The website was evaluated using Google Lighthouse and a manual keyboard-only nav
 
 ### 1. Buttons do not have an accessible name
 
-**Evidence: Lighthouse identified buttons that do not have an accessible name.
+**Evidence:** Lighthouse identified buttons that do not have an accessible name.
 
 **Priority:** High
 
