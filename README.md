@@ -33,3 +33,17 @@ Clone the repository and open the project folder.
 ```bash
 git clone <repository-url>
 cd accessibility-architecture-audit
+
+## First Feature
+
+The first feature will be an accessible public-service information page.
+
+### Feature Flow
+
+User → Client → Server API → Data → Server Response → Client
+
+The client will display the public-service information using accessible headings, buttons, links, and images.
+
+The server will provide the required information through an API.
+
+The test folder will be used to test the feature and its accessibility requirements.
