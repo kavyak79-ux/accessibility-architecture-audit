@@ -1,6 +1,6 @@
 # Accessibility Baseline & Repository Architecture Audit
 
-## Project Overview
+## Project Overview 
 
 This project contains an accessibility audit of the Karnataka Government Website and a basic full-stack project structure.
 
